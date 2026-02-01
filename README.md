@@ -1,4 +1,4 @@
-Real World Projects – Finance & Analytics 🚀
+## Real World Projects – Finance & Analytics 🚀
 
   Bienvenue sur mon repository Real World Projects, où chaque projet est conçu comme une mission réelle en entreprise.
   
@@ -16,5 +16,5 @@ Real World Projects – Finance & Analytics 🚀
   
     Les bottlenecks et choix stratégiques pour rendre le processus transparent
 
-💡 Pourquoi ce repo ?
+💡 **Pourquoi ce repo ?**
 Pour montrer que la finance et l’analytics ne sont pas juste techniques : ils sont des leviers de valeur ajoutée, d’optimisation opérationnelle et de décision éclairée. Chaque projet est pensé pour être accessible, mais aussi suffisamment complexe pour refléter le vrai monde de l’entreprise.
