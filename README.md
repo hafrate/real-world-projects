@@ -17,4 +17,5 @@
     Les bottlenecks et choix stratégiques pour rendre le processus transparent
 
 💡 **Pourquoi ce repo ?**
+
 Pour montrer que la finance et l’analytics ne sont pas juste techniques : ils sont des leviers de valeur ajoutée, d’optimisation opérationnelle et de décision éclairée. Chaque projet est pensé pour être accessible, mais aussi suffisamment complexe pour refléter le vrai monde de l’entreprise.
