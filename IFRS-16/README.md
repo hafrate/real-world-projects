@@ -1,8 +1,11 @@
-IFRS 16 Implementation – Power Query Project 🚀
-🌟 Contexte
+## IFRS 16 Implementation – Power Query Project 🚀
+
+
+🌟 **Contexte**
 
 Ce projet simule une implémentation pratique d’IFRS 16 (Norme de comptabilisation des contrats de location) en utilisant Power Query / Power BI.
 L’objectif est de transformer des données brutes sur les contrats de location en modèle comptable conforme, prêt pour reporting et analyse de performance.
+
 
 🎯 **Objectifs du projet**
 
